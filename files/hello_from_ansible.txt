@@ -1,2 +1,2 @@
 This file was placed on the Oracle Cloud server by Ansible!
-It works!
+It works !
