@@ -1,0 +1,11 @@
+---
+- name: Test connection and copy a file to Oracle Cloud
+  hosts: oracle_servers
+  gather_facts: yes
+
+  tasks:
+    - name: Copy a local file to the remote server
+      ansible.builtin.copy:
+        src: ../files/hello_from_ansible.txt
+        dest: ~/hello_from_ansible.txt
+        mode: '0644'

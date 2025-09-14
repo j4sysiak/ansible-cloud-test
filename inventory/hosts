@@ -1,0 +1,2 @@
+[oracle_servers]
+ubuntu-vm ansible_host=89.168.116.218 ansible_user=ubuntu ansible_private_key_file=~/.ssh/oracle_key.key ansible_python_interpreter=/usr/bin/python3
