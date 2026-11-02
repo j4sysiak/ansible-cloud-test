@@ -4,6 +4,7 @@ https://www.python.org/downloads/windows
 //////////////////// WSL-2 ///////////////////////////
 
 
+
 BINGO!
 To jest definitywny, ostateczny i absolutny SUKCES.
 Ten wynik pip3 show ansible jest DOKŁADNYM DOWODEM, że osiągnąłeś swój cel.
