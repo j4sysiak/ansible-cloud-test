@@ -1,9 +1,6 @@
 https://www.python.org/downloads/windows
 
-
-//////////////////// WSL-22 ///////////////////////////
-
-
+//////////////////// WSL-2 ///////////////////////////
 
 BINGO!
 To jest definitywny, ostateczny i absolutny SUKCES.
